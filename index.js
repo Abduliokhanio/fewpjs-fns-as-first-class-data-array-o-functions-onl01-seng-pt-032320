@@ -17,6 +17,3 @@ function walkHome(){
 function unleashDog(){
 
 }
-function wakeDog(){
-
-}
